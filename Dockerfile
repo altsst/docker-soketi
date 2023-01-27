@@ -1,1 +1,1 @@
-FROM quay.io/soketi/soketi:1.4-16-debian
+FROM quay.io/soketi/soketi:1.0-16-distroless
